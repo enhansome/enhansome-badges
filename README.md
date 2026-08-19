@@ -264,7 +264,7 @@ Related Repos: [![RelatedRepos](https://img.shields.io/badge/related-repos-yello
 ```
 
 GitHub go.mod Go version (`/github/go-mod/go-version/:user/:repo`):
-[![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/gomods/athens.svg)](https://github.com/gomods/athens) ⭐ 4,789 | 🐛 152 | 🌐 Go | 📅 2026-07-25
+[![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/gomods/athens.svg)](https://github.com/gomods/athens) ⭐ 4,790 | 🐛 152 | 🌐 Go | 📅 2026-07-25
 
 ```markdown
 [![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/gomods/athens.svg)](https://github.com/gomods/athens)
@@ -516,7 +516,7 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 
 ## [GNU Bash](https://www.gnu.org/software/bash/) related
 
-[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/) ⭐ 549 | 🐛 8 | 📅 2022-08-03
+[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/) ⭐ 550 | 🐛 8 | 📅 2022-08-03
 
 ```markdown
 [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
@@ -742,7 +742,7 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 
 ### GitHub contributors
 
-[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://GitHub.com/Naereen/badges/graphs/contributors/) ⭐ 4,629 | 🐛 1 | 🌐 Makefile | 📅 2026-05-07
+[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://GitHub.com/Naereen/badges/graphs/contributors/) ⭐ 4,630 | 🐛 1 | 🌐 Makefile | 📅 2026-05-07
 
 ```markdown
 [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://GitHub.com/Naereen/badges/graphs/contributors/)
@@ -868,31 +868,31 @@ From [isitmaintained.com](http://isitmaintained.com):
 
 ### GitHub Profile
 
-[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen\&row=1)](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,633 | 🐛 32 | 🌐 TypeScript | 📅 2026-07-25
+[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen\&row=1)](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,637 | 🐛 32 | 🌐 TypeScript | 📅 2026-07-25
 
 ```markdown
 [![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 ```
 
-[![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=Naereen\&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,828 | 🐛 293 | 🌐 JavaScript | 📅 2026-07-31
+[![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=Naereen\&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,832 | 🐛 293 | 🌐 JavaScript | 📅 2026-07-31
 
 ```markdown
 [![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen\&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,828 | 🐛 293 | 🌐 JavaScript | 📅 2026-07-31
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen\&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,832 | 🐛 293 | 🌐 JavaScript | 📅 2026-07-31
 
 ```markdown
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
-[![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen\&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats) ⭐ 7,088 | 🐛 77 | 🌐 PHP | 📅 2026-08-06
+[![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen\&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats) ⭐ 7,090 | 🐛 77 | 🌐 PHP | 📅 2026-08-06
 
 ```markdown
 [![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 ```
 
-[![Naereen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Naereen\&bg_color=0d0e12\&color=1c81ce\&line=0f1129\&point=079ae4\&area=true\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) ⭐ 2,302 | 🐛 8 | 🌐 TypeScript | 📅 2026-05-17
+[![Naereen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Naereen\&bg_color=0d0e12\&color=1c81ce\&line=0f1129\&point=079ae4\&area=true\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) ⭐ 2,301 | 🐛 10 | 🌐 TypeScript | 📅 2026-05-17
 
 ```markdown
 [![Naereen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Naereen&bg_color=0d0e12&color=1c81ce&line=0f1129&point=079ae4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -1440,49 +1440,49 @@ Any [shields.io](https://shields.io/) badge can use a logo image by adding the
 ## Open-Source
 
 Version 1, in SVG:
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) ⭐ 549 | 🐛 8 | 📅 2022-08-03
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) ⭐ 550 | 🐛 8 | 📅 2022-08-03
 
 ```markdown
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ```
 
 Version 1, in PNG:
-[![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) ⭐ 549 | 🐛 8 | 📅 2022-08-03
+[![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) ⭐ 550 | 🐛 8 | 📅 2022-08-03
 
 ```markdown
 [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ```
 
 Version 2, in SVG:
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) ⭐ 549 | 🐛 8 | 📅 2022-08-03
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) ⭐ 550 | 🐛 8 | 📅 2022-08-03
 
 ```markdown
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ```
 
 Version 2, in PNG:
-[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) ⭐ 549 | 🐛 8 | 📅 2022-08-03
+[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) ⭐ 550 | 🐛 8 | 📅 2022-08-03
 
 ```markdown
 [![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ```
 
 Version 3, in SVG:
-[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) ⭐ 549 | 🐛 8 | 📅 2022-08-03
+[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) ⭐ 550 | 🐛 8 | 📅 2022-08-03
 
 ```markdown
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ```
 
 Version 3, in PNG:
-[![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) ⭐ 549 | 🐛 8 | 📅 2022-08-03
+[![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) ⭐ 550 | 🐛 8 | 📅 2022-08-03
 
 ```markdown
 [![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ```
 
 Open Source? Yes!
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/) ⭐ 4,629 | 🐛 1 | 🌐 Makefile | 📅 2026-05-07
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/) ⭐ 4,630 | 🐛 1 | 🌐 Makefile | 📅 2026-05-07
 
 ```markdown
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
@@ -1494,7 +1494,7 @@ Open Source? Yes!
 
 This is a badge to show that you like to put badges on your README:
 
-[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges) ⭐ 4,629 | 🐛 1 | 🌐 Makefile | 📅 2026-05-07
+[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges) ⭐ 4,630 | 🐛 1 | 🌐 Makefile | 📅 2026-05-07
 
 ```markdown
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
@@ -1580,7 +1580,7 @@ Jetbrains Badges
 
 ***
 
-## [Say thanks](https://github.com/kennethreitz/saythanks.io/) ⭐ 1,302 | 🐛 62 | 🌐 Python | 📅 2026-08-16
+## [Say thanks](https://github.com/kennethreitz/saythanks.io/) ⭐ 1,303 | 🐛 62 | 🌐 Python | 📅 2026-08-18
 
 A nice badge to give a link to [saythanks.io/to/kennethreitz](https://saythanks.io/to/kennethreitz) (for example).
 
@@ -1606,7 +1606,7 @@ A nice badge to give a link to [saythanks.io/to/kennethreitz](https://saythanks.
      * [Materialdesignicons](https://materialdesignicons.com/)
 2. Optimize the SVG image using a tool:
    * Example of tool:
-     * [SVGO Project](https://github.com/svg/svgo) ⭐ 22,635 | 🐛 256 | 🌐 JavaScript | 📅 2026-08-16 ([Web App](https://jakearchibald.github.io/svgomg/))
+     * [SVGO Project](https://github.com/svg/svgo) ⭐ 22,636 | 🐛 256 | 🌐 JavaScript | 📅 2026-08-16 ([Web App](https://jakearchibald.github.io/svgomg/))
 3. Encode the Optimized SVG to Base64 using a tool:
    * Example of tool:
      * [B64.io ](https://b64.io/)
@@ -1649,7 +1649,7 @@ A nice badge to give a link to [saythanks.io/to/kennethreitz](https://saythanks.
 ![Telegram](https://img.shields.io/badge/Join-Telegram-blue?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgaGVpZ2h0PSI1MTIiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjUxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJtOS40MTcgMTUuMTgxLS4zOTcgNS41ODRjLjU2OCAwIC44MTQtLjI0NCAxLjEwOS0uNTM3bDIuNjYzLTIuNTQ1IDUuNTE4IDQuMDQxYzEuMDEyLjU2NCAxLjcyNS4yNjcgMS45OTgtLjkzMWwzLjYyMi0xNi45NzIuMDAxLS4wMDFjLjMyMS0xLjQ5Ni0uNTQxLTIuMDgxLTEuNTI3LTEuNzE0bC0yMS4yOSA4LjE1MWMtMS40NTMuNTY0LTEuNDMxIDEuMzc0LS4yNDcgMS43NDFsNS40NDMgMS42OTMgMTIuNjQzLTcuOTExYy41OTUtLjM5NCAxLjEzNi0uMTc2LjY5MS4yMTh6IiBmaWxsPSIjMDM5YmU1Ii8+PC9zdmc+)
 ```
 
-![RuboCop](https://img.shields.io/badge/code%20style-Rubocop-red?style=for-the-badge\&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHRpdGxlPmZpbGVfdHlwZV9ydWJvY29wPC90aXRsZT48cGF0aCBkPSJNMjcuMDUsMTMuOVYxM2ExLjc5MywxLjc5MywwLDAsMC0xLjgtMS44SDYuNjVBMS43OTMsMS43OTMsMCwwLDAsNC44NSwxM3YuOWExLjUyNSwxLjUyNSwwLDAsMC0uNywxLjJ2Mi40YTEuMzg3LDEuMzg3LDAsMCwwLC43LDEuMnYuOWExLjc5MywxLjc5MywwLDAsMCwxLjgsMS44aDE4LjdhMS43OTMsMS43OTMsMCwwLDAsMS44LTEuOHYtLjlhMS41MjUsMS41MjUsMCwwLDAsLjctMS4yVjE1LjFBMS43NDIsMS43NDIsMCwwLDAsMjcuMDUsMTMuOVoiIHN0eWxlPSJmaWxsOiNjNWM1YzUiLz48cGF0aCBkPSJNMTUuOTUsMmE5LjkyNSw5LjkyNSwwLDAsMC05LjgsOC42aDE5LjZBOS45MjUsOS45MjUsMCwwLDAsMTUuOTUsMloiIHN0eWxlPSJmaWxsOiNjNWM1YzUiLz48cG9seWdvbiBwb2ludHM9IjEzLjA1IDI0IDE4Ljg1IDI0IDE5LjQ1IDI0LjcgMjAuMzUgMjQgMTkuNDUgMjIuOSAxMi40NSAyMi45IDExLjU1IDI0IDEyLjQ1IDI0LjcgMTMuMDUgMjQiIHN0eWxlPSJmaWxsOiNjNWM1YzUiLz48cGF0aCBkPSJNMjMuNTUsMTcuNkg4LjM1YTEuMywxLjMsMCwxLDEsMC0yLjZoMTUuM2ExLjMyNCwxLjMyNCwwLDAsMSwxLjMsMS4zQTEuNDkzLDEuNDkzLDAsMCwxLDIzLjU1LDE3LjZaIiBzdHlsZT0iZmlsbDojZWMxYzI0Ii8+PHBhdGggZD0iTTIzLjA1LDIydjMuOGExLjk2NywxLjk2NywwLDAsMS0xLjksMS45aC0xYS44NjQuODY0LDAsMCwxLS42LS4zbC0xLjItMS42YS42LjYsMCwwLDAtLjYtLjNoLTMuNmEuNzY0Ljc2NCwwLDAsMC0uNS4ybC0xLjMsMS42YS42LjYsMCwwLDEtLjYuM2gtMWExLjk2NywxLjk2NywwLDAsMS0xLjktMS45VjIySDYuNTV2My44YTQuMjI1LDQuMjI1LDAsMCwwLDQuMiw0LjJoMTAuNGE0LjIyNSw0LjIyNSwwLDAsMCw0LjItNC4yVjIyWiIgc3R5bGU9ImZpbGw6I2M1YzVjNSIvPjwvc3ZnPg==) ([Source](https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_rubocop.svg) ⭐ 5,123 | 🐛 290 | 🌐 TypeScript | 📅 2026-08-17)
+![RuboCop](https://img.shields.io/badge/code%20style-Rubocop-red?style=for-the-badge\&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHRpdGxlPmZpbGVfdHlwZV9ydWJvY29wPC90aXRsZT48cGF0aCBkPSJNMjcuMDUsMTMuOVYxM2ExLjc5MywxLjc5MywwLDAsMC0xLjgtMS44SDYuNjVBMS43OTMsMS43OTMsMCwwLDAsNC44NSwxM3YuOWExLjUyNSwxLjUyNSwwLDAsMC0uNywxLjJ2Mi40YTEuMzg3LDEuMzg3LDAsMCwwLC43LDEuMnYuOWExLjc5MywxLjc5MywwLDAsMCwxLjgsMS44aDE4LjdhMS43OTMsMS43OTMsMCwwLDAsMS44LTEuOHYtLjlhMS41MjUsMS41MjUsMCwwLDAsLjctMS4yVjE1LjFBMS43NDIsMS43NDIsMCwwLDAsMjcuMDUsMTMuOVoiIHN0eWxlPSJmaWxsOiNjNWM1YzUiLz48cGF0aCBkPSJNMTUuOTUsMmE5LjkyNSw5LjkyNSwwLDAsMC05LjgsOC42aDE5LjZBOS45MjUsOS45MjUsMCwwLDAsMTUuOTUsMloiIHN0eWxlPSJmaWxsOiNjNWM1YzUiLz48cG9seWdvbiBwb2ludHM9IjEzLjA1IDI0IDE4Ljg1IDI0IDE5LjQ1IDI0LjcgMjAuMzUgMjQgMTkuNDUgMjIuOSAxMi40NSAyMi45IDExLjU1IDI0IDEyLjQ1IDI0LjcgMTMuMDUgMjQiIHN0eWxlPSJmaWxsOiNjNWM1YzUiLz48cGF0aCBkPSJNMjMuNTUsMTcuNkg4LjM1YTEuMywxLjMsMCwxLDEsMC0yLjZoMTUuM2ExLjMyNCwxLjMyNCwwLDAsMSwxLjMsMS4zQTEuNDkzLDEuNDkzLDAsMCwxLDIzLjU1LDE3LjZaIiBzdHlsZT0iZmlsbDojZWMxYzI0Ii8+PHBhdGggZD0iTTIzLjA1LDIydjMuOGExLjk2NywxLjk2NywwLDAsMS0xLjksMS45aC0xYS44NjQuODY0LDAsMCwxLS42LS4zbC0xLjItMS42YS42LjYsMCwwLDAtLjYtLjNoLTMuNmEuNzY0Ljc2NCwwLDAsMC0uNS4ybC0xLjMsMS42YS42LjYsMCwwLDEtLjYuM2gtMWExLjk2NywxLjk2NywwLDAsMS0xLjktMS45VjIySDYuNTV2My44YTQuMjI1LDQuMjI1LDAsMCwwLDQuMiw0LjJoMTAuNGE0LjIyNSw0LjIyNSwwLDAsMCw0LjItNC4yVjIyWiIgc3R5bGU9ImZpbGw6I2M1YzVjNSIvPjwvc3ZnPg==) ([Source](https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_rubocop.svg) ⭐ 5,125 | 🐛 291 | 🌐 TypeScript | 📅 2026-08-17)
 
 ```markdown
 ![RuboCop](https://img.shields.io/badge/code%20style-Rubocop-red?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHRpdGxlPmZpbGVfdHlwZV9ydWJvY29wPC90aXRsZT48cGF0aCBkPSJNMjcuMDUsMTMuOVYxM2ExLjc5MywxLjc5MywwLDAsMC0xLjgtMS44SDYuNjVBMS43OTMsMS43OTMsMCwwLDAsNC44NSwxM3YuOWExLjUyNSwxLjUyNSwwLDAsMC0uNywxLjJ2Mi40YTEuMzg3LDEuMzg3LDAsMCwwLC43LDEuMnYuOWExLjc5MywxLjc5MywwLDAsMCwxLjgsMS44aDE4LjdhMS43OTMsMS43OTMsMCwwLDAsMS44LTEuOHYtLjlhMS41MjUsMS41MjUsMCwwLDAsLjctMS4yVjE1LjFBMS43NDIsMS43NDIsMCwwLDAsMjcuMDUsMTMuOVoiIHN0eWxlPSJmaWxsOiNjNWM1YzUiLz48cGF0aCBkPSJNMTUuOTUsMmE5LjkyNSw5LjkyNSwwLDAsMC05LjgsOC42aDE5LjZBOS45MjUsOS45MjUsMCwwLDAsMTUuOTUsMloiIHN0eWxlPSJmaWxsOiNjNWM1YzUiLz48cG9seWdvbiBwb2ludHM9IjEzLjA1IDI0IDE4Ljg1IDI0IDE5LjQ1IDI0LjcgMjAuMzUgMjQgMTkuNDUgMjIuOSAxMi40NSAyMi45IDExLjU1IDI0IDEyLjQ1IDI0LjcgMTMuMDUgMjQiIHN0eWxlPSJmaWxsOiNjNWM1YzUiLz48cGF0aCBkPSJNMjMuNTUsMTcuNkg4LjM1YTEuMywxLjMsMCwxLDEsMC0yLjZoMTUuM2ExLjMyNCwxLjMyNCwwLDAsMSwxLjMsMS4zQTEuNDkzLDEuNDkzLDAsMCwxLDIzLjU1LDE3LjZaIiBzdHlsZT0iZmlsbDojZWMxYzI0Ii8+PHBhdGggZD0iTTIzLjA1LDIydjMuOGExLjk2NywxLjk2NywwLDAsMS0xLjksMS45aC0xYS44NjQuODY0LDAsMCwxLS42LS4zbC0xLjItMS42YS42LjYsMCwwLDAtLjYtLjNoLTMuNmEuNzY0Ljc2NCwwLDAsMC0uNS4ybC0xLjMsMS42YS42LjYsMCwwLDEtLjYuM2gtMWExLjk2NywxLjk2NywwLDAsMS0xLjktMS45VjIySDYuNTV2My44YTQuMjI1LDQuMjI1LDAsMCwwLDQuMiw0LjJoMTAuNGE0LjIyNSw0LjIyNSwwLDAsMCw0LjItNC4yVjIyWiIgc3R5bGU9ImZpbGw6I2M1YzVjNSIvPjwvc3ZnPg==)
@@ -1765,7 +1765,7 @@ A nice badge to give a link to [saythanks.io/to/kennethreitz](https://saythanks.
 
 ## References ? :notebook:
 
-* This repo [open-source-badges](https://github.com/ellerbrock/open-source-badges/) ⭐ 549 | 🐛 8 | 📅 2022-08-03 by [@ellerbrock](https://github.com/ellerbrock), for open-source badges :books:
+* This repo [open-source-badges](https://github.com/ellerbrock/open-source-badges/) ⭐ 550 | 🐛 8 | 📅 2022-08-03 by [@ellerbrock](https://github.com/ellerbrock), for open-source badges :books:
 * This small repo [awesome-badges](https://github.com/bevacqua/awesome-badges) ⭐ 127 | 🐛 1 | 🌐 JavaScript | 📅 2016-01-29 by [@bevacqua](https://github.com/bevacqua/), for awesome and meta badges :curly\_loop:
 * The powerful [Shields.io](https://shields.io) API and website :rocket:
 * The nice [LicenseButtons.net](https://licensebuttons.net/) website for licence badges :scroll:
@@ -1787,15 +1787,15 @@ A nice badge to give a link to [saythanks.io/to/kennethreitz](https://saythanks.
 * [ ] Download here a copy of every png/svg file, *only* for the static badges
 * [ ] Host the badges in this repo, and not on an external web service ?
 
-## License ? :scroll: [![GitHub license](https://img.shields.io/github/license/Naereen/badges.svg)](https://github.com/Naereen/badges/blob/master/LICENSE) ⭐ 4,629 | 🐛 1 | 🌐 Makefile | 📅 2026-05-07
+## License ? :scroll: [![GitHub license](https://img.shields.io/github/license/Naereen/badges.svg)](https://github.com/Naereen/badges/blob/master/LICENSE) ⭐ 4,630 | 🐛 1 | 🌐 Makefile | 📅 2026-05-07
 
 [MIT Licensed](https://lbesson.mit-license.org/) (file [LICENSE](LICENSE)).
 © [Lilian Besson](https://GitHub.com/Naereen) and contributors, 2016-23.
 
-[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges) ⭐ 4,629 | 🐛 1 | 🌐 Makefile | 📅 2026-05-07
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/badges/graphs/commit-activity) ⭐ 4,629 | 🐛 1 | 🌐 Makefile | 📅 2026-05-07
+[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges) ⭐ 4,630 | 🐛 1 | 🌐 Makefile | 📅 2026-05-07
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/badges/graphs/commit-activity) ⭐ 4,630 | 🐛 1 | 🌐 Makefile | 📅 2026-05-07
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) ⭐ 7 | 🐛 0 | 📅 2021-03-31
-[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) ⭐ 549 | 🐛 8 | 📅 2022-08-03
+[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) ⭐ 550 | 🐛 8 | 📅 2022-08-03
 
 [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/)
 
@@ -1804,4 +1804,4 @@ A nice badge to give a link to [saythanks.io/to/kennethreitz](https://saythanks.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
