@@ -4,6 +4,77 @@
       "description": null,
       "items": [
         {
+          "children": [],
+          "description": "A nice badge to give a link to saythanks.io/to/kennethreitz (for example).",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 73524850,
+            "language": "Python",
+            "last_commit": "2026-08-23T05:20:47Z",
+            "owner": "BlitzKraft",
+            "repo": "saythanks.io",
+            "stars": 1303
+          },
+          "title": "Say thanks"
+        }
+      ],
+      "title": "Overview"
+    },
+    {
+      "description": "(Source)\n(Source)\n(Source)\n(Source)\n(Source)",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Optimize the SVG image using a tool:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Example of tool:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "SVGO Project",
+                  "description": "(Web App)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 5508088,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-24T12:07:00Z",
+                    "owner": "svg",
+                    "repo": "svgo",
+                    "stars": 22650
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "item",
+          "title": "(Source",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 60044366,
+            "language": "TypeScript",
+            "last_commit": "2026-08-22T11:58:44Z",
+            "owner": "vscode-icons",
+            "repo": "vscode-icons",
+            "stars": 5128
+          }
+        }
+      ],
+      "title": "Step by Step"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "node_type": "item",
           "title": "This repo open-source-badges",
           "description": "by @ellerbrock, for open-source badges :books:",
@@ -15,7 +86,7 @@
             "last_commit": "2022-08-03T07:01:12Z",
             "owner": "ellerbrock",
             "repo": "open-source-badges",
-            "stars": 551
+            "stars": 550
           }
         },
         {
@@ -38,7 +109,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:19:24.233Z",
+    "last_updated": "2026-08-24T13:56:15.316Z",
     "original_repository": "Naereen/badges",
     "original_repository_id": 70745419,
     "original_repository_sha": "a8142ed4fdf4a9f058811c7d3be03226952b65e1",
