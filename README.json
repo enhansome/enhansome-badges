@@ -43,7 +43,7 @@
                     "archived": false,
                     "id": 5508088,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-25T07:33:46Z",
+                    "last_commit": "2026-08-25T14:00:46Z",
                     "owner": "svg",
                     "repo": "svgo",
                     "stars": 22651
@@ -65,7 +65,7 @@
             "last_commit": "2026-08-22T11:58:44Z",
             "owner": "vscode-icons",
             "repo": "vscode-icons",
-            "stars": 5128
+            "stars": 5130
           }
         }
       ],
@@ -109,7 +109,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T10:03:37.005Z",
+    "last_updated": "2026-08-26T10:08:23.725Z",
     "original_repository": "Naereen/badges",
     "original_repository_id": 70745419,
     "original_repository_sha": "a8142ed4fdf4a9f058811c7d3be03226952b65e1",
