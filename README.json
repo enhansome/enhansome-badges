@@ -11,7 +11,7 @@
             "archived": false,
             "id": 73524850,
             "language": "Python",
-            "last_commit": "2026-08-24T15:50:12Z",
+            "last_commit": "2026-08-26T18:28:40Z",
             "owner": "BlitzKraft",
             "repo": "saythanks.io",
             "stars": 1303
@@ -46,7 +46,7 @@
                     "last_commit": "2026-08-25T14:00:46Z",
                     "owner": "svg",
                     "repo": "svgo",
-                    "stars": 22651
+                    "stars": 22654
                   }
                 }
               ]
@@ -65,7 +65,7 @@
             "last_commit": "2026-08-22T11:58:44Z",
             "owner": "vscode-icons",
             "repo": "vscode-icons",
-            "stars": 5130
+            "stars": 5131
           }
         }
       ],
@@ -109,9 +109,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:08:23.725Z",
-    "original_repository": "Naereen/badges",
-    "original_repository_id": 70745419,
+    "last_updated": "2026-08-27T11:28:23.600Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 70745419,
+      "language": "Makefile",
+      "last_commit": "2026-05-07T06:03:10Z",
+      "owner": "Naereen",
+      "repo": "badges",
+      "stars": 4638
+    },
     "original_repository_sha": "a8142ed4fdf4a9f058811c7d3be03226952b65e1",
     "enhanced_repository": "enhansome/enhansome-badges",
     "enhanced_repository_description": null,
