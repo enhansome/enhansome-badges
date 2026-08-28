@@ -11,12 +11,13 @@
             "archived": false,
             "id": 73524850,
             "language": "Python",
-            "last_commit": "2026-08-26T18:28:40Z",
+            "last_commit": "2026-08-28T10:25:04Z",
             "owner": "BlitzKraft",
             "repo": "saythanks.io",
-            "stars": 1303
+            "stars": 1304
           },
-          "title": "Say thanks"
+          "title": "Say thanks",
+          "first_seen": "2026-08-28T20:58:58.587Z"
         }
       ],
       "title": "Overview"
@@ -46,8 +47,9 @@
                     "last_commit": "2026-08-27T14:58:51Z",
                     "owner": "svg",
                     "repo": "svgo",
-                    "stars": 22654
-                  }
+                    "stars": 22655
+                  },
+                  "first_seen": "2026-08-28T20:58:58.587Z"
                 }
               ]
             }
@@ -62,11 +64,12 @@
             "archived": false,
             "id": 60044366,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T11:58:44Z",
+            "last_commit": "2026-08-28T12:32:56Z",
             "owner": "vscode-icons",
             "repo": "vscode-icons",
             "stars": 5131
-          }
+          },
+          "first_seen": "2026-08-28T20:58:58.587Z"
         }
       ],
       "title": "Step by Step"
@@ -87,7 +90,8 @@
             "owner": "ellerbrock",
             "repo": "open-source-badges",
             "stars": 551
-          }
+          },
+          "first_seen": "2026-08-28T20:58:58.587Z"
         },
         {
           "node_type": "item",
@@ -102,14 +106,15 @@
             "owner": "bevacqua",
             "repo": "awesome-badges",
             "stars": 127
-          }
+          },
+          "first_seen": "2026-08-28T20:58:58.587Z"
         }
       ],
       "title": "References ? :notebook:"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:56:39.237Z",
+    "last_updated": "2026-08-28T20:58:58.587Z",
     "original_repository_info": {
       "archived": false,
       "id": 70745419,
@@ -117,7 +122,7 @@
       "last_commit": "2026-05-07T06:03:10Z",
       "owner": "Naereen",
       "repo": "badges",
-      "stars": 4638
+      "stars": 4639
     },
     "original_repository_sha": "a8142ed4fdf4a9f058811c7d3be03226952b65e1",
     "enhanced_repository": "enhansome/enhansome-badges",
