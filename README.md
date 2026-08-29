@@ -742,7 +742,7 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 
 ### GitHub contributors
 
-[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://GitHub.com/Naereen/badges/graphs/contributors/) ⭐ 4,639 | 🐛 1 | 🌐 Makefile | 📅 2026-05-07
+[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://GitHub.com/Naereen/badges/graphs/contributors/) ⭐ 4,640 | 🐛 1 | 🌐 Makefile | 📅 2026-05-07
 
 ```markdown
 [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://GitHub.com/Naereen/badges/graphs/contributors/)
@@ -868,31 +868,31 @@ From [isitmaintained.com](http://isitmaintained.com):
 
 ### GitHub Profile
 
-[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen\&row=1)](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,639 | 🐛 31 | 🌐 TypeScript | 📅 2026-07-25
+[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen\&row=1)](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,640 | 🐛 31 | 🌐 TypeScript | 📅 2026-07-25
 
 ```markdown
 [![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 ```
 
-[![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=Naereen\&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,843 | 🐛 293 | 🌐 JavaScript | 📅 2026-07-31
+[![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=Naereen\&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,844 | 🐛 293 | 🌐 JavaScript | 📅 2026-07-31
 
 ```markdown
 [![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen\&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,843 | 🐛 293 | 🌐 JavaScript | 📅 2026-07-31
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen\&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,844 | 🐛 293 | 🌐 JavaScript | 📅 2026-07-31
 
 ```markdown
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
-[![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen\&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats) ⭐ 7,111 | 🐛 78 | 🌐 PHP | 📅 2026-08-28
+[![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen\&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats) ⭐ 7,112 | 🐛 78 | 🌐 PHP | 📅 2026-08-28
 
 ```markdown
 [![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 ```
 
-[![Naereen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Naereen\&bg_color=0d0e12\&color=1c81ce\&line=0f1129\&point=079ae4\&area=true\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) ⭐ 2,320 | 🐛 11 | 🌐 TypeScript | 📅 2026-05-17
+[![Naereen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Naereen\&bg_color=0d0e12\&color=1c81ce\&line=0f1129\&point=079ae4\&area=true\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) ⭐ 2,323 | 🐛 11 | 🌐 TypeScript | 📅 2026-05-17
 
 ```markdown
 [![Naereen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Naereen&bg_color=0d0e12&color=1c81ce&line=0f1129&point=079ae4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -1482,7 +1482,7 @@ Version 3, in PNG:
 ```
 
 Open Source? Yes!
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/) ⭐ 4,639 | 🐛 1 | 🌐 Makefile | 📅 2026-05-07
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/) ⭐ 4,640 | 🐛 1 | 🌐 Makefile | 📅 2026-05-07
 
 ```markdown
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
@@ -1494,7 +1494,7 @@ Open Source? Yes!
 
 This is a badge to show that you like to put badges on your README:
 
-[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges) ⭐ 4,639 | 🐛 1 | 🌐 Makefile | 📅 2026-05-07
+[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges) ⭐ 4,640 | 🐛 1 | 🌐 Makefile | 📅 2026-05-07
 
 ```markdown
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
@@ -1787,13 +1787,13 @@ A nice badge to give a link to [saythanks.io/to/kennethreitz](https://saythanks.
 * [ ] Download here a copy of every png/svg file, *only* for the static badges
 * [ ] Host the badges in this repo, and not on an external web service ?
 
-## License ? :scroll: [![GitHub license](https://img.shields.io/github/license/Naereen/badges.svg)](https://github.com/Naereen/badges/blob/master/LICENSE) ⭐ 4,639 | 🐛 1 | 🌐 Makefile | 📅 2026-05-07
+## License ? :scroll: [![GitHub license](https://img.shields.io/github/license/Naereen/badges.svg)](https://github.com/Naereen/badges/blob/master/LICENSE) ⭐ 4,640 | 🐛 1 | 🌐 Makefile | 📅 2026-05-07
 
 [MIT Licensed](https://lbesson.mit-license.org/) (file [LICENSE](LICENSE)).
 © [Lilian Besson](https://GitHub.com/Naereen) and contributors, 2016-23.
 
-[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges) ⭐ 4,639 | 🐛 1 | 🌐 Makefile | 📅 2026-05-07
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/badges/graphs/commit-activity) ⭐ 4,639 | 🐛 1 | 🌐 Makefile | 📅 2026-05-07
+[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges) ⭐ 4,640 | 🐛 1 | 🌐 Makefile | 📅 2026-05-07
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/badges/graphs/commit-activity) ⭐ 4,640 | 🐛 1 | 🌐 Makefile | 📅 2026-05-07
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) ⭐ 7 | 🐛 0 | 📅 2021-03-31
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) ⭐ 551 | 🐛 8 | 📅 2022-08-03
 
