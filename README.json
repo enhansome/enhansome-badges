@@ -9,12 +9,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Spreading Thankfulness in Open Source. ",
+            "homepage": "https://saythanks.io",
             "id": 73524850,
             "language": "Python",
-            "last_commit": "2026-08-28T10:25:04Z",
+            "license": null,
+            "last_commit": "2026-08-29T01:32:11Z",
+            "open_issues": 64,
             "owner": "BlitzKraft",
             "repo": "saythanks.io",
-            "stars": 1304
+            "stars": 1304,
+            "topics": [
+              "inbox",
+              "opensource",
+              "saythanks",
+              "thankfulness",
+              "thanks"
+            ]
           },
           "title": "Say thanks",
           "first_seen": "2026-08-28T20:58:58.587Z"
@@ -42,12 +53,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SVG Optimizer for Node.js and CLI. ⚙️",
+                    "homepage": "https://svgo.dev/",
                     "id": 5508088,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-27T14:58:51Z",
+                    "open_issues": 257,
                     "owner": "svg",
                     "repo": "svgo",
-                    "stars": 22655
+                    "stars": 22657,
+                    "topics": [
+                      "cli",
+                      "hacktoberfest",
+                      "javascript",
+                      "minification",
+                      "nodejs",
+                      "optimization",
+                      "svg",
+                      "svgo"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:58:58.587Z"
                 }
@@ -62,12 +87,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Icons for Visual Studio Code",
+            "homepage": "https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons",
             "id": 60044366,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T12:32:56Z",
+            "open_issues": 290,
             "owner": "vscode-icons",
             "repo": "vscode-icons",
-            "stars": 5131
+            "stars": 5132,
+            "topics": [
+              "icon-theme",
+              "icons-provider",
+              "vscode",
+              "vscode-extension",
+              "vscode-icons"
+            ]
           },
           "first_seen": "2026-08-28T20:58:58.587Z"
         }
@@ -84,12 +120,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":octocat: Open Source & Licence Badges",
+            "homepage": "https://ellerbrock.github.io/open-source-badges",
             "id": 59862862,
             "language": null,
+            "license": "CC-BY-4.0",
             "last_commit": "2022-08-03T07:01:12Z",
+            "open_issues": 8,
             "owner": "ellerbrock",
             "repo": "open-source-badges",
-            "stars": 551
+            "stars": 551,
+            "topics": [
+              "badge",
+              "badges",
+              "open-source"
+            ]
           },
           "first_seen": "2026-08-28T20:58:58.587Z"
         },
@@ -100,12 +145,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":trophy: Awesome, badges!",
+            "homepage": "https://ponyfoo.com",
             "id": 50611660,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-01-29T13:33:31Z",
+            "open_issues": 1,
             "owner": "bevacqua",
             "repo": "awesome-badges",
-            "stars": 127
+            "stars": 127,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:58.587Z"
         }
@@ -114,15 +164,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:58:58.587Z",
+    "last_updated": "2026-08-29T04:21:24.853Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!",
+      "homepage": "https://naereen.github.io/badges/",
       "id": 70745419,
       "language": "Makefile",
+      "license": "MIT",
       "last_commit": "2026-05-07T06:03:10Z",
+      "open_issues": 1,
       "owner": "Naereen",
       "repo": "badges",
-      "stars": 4639
+      "stars": 4639,
+      "topics": [
+        "awesome",
+        "badges",
+        "forthebadge",
+        "forthebadge-cc",
+        "markdown",
+        "markdown-cheatsheet",
+        "markup",
+        "meta-badge",
+        "pokemon",
+        "python",
+        "restructuredtext"
+      ]
     },
     "original_repository_sha": "a8142ed4fdf4a9f058811c7d3be03226952b65e1",
     "enhanced_repository": "enhansome/enhansome-badges",
