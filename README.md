@@ -868,25 +868,25 @@ From [isitmaintained.com](http://isitmaintained.com):
 
 ### GitHub Profile
 
-[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen\&row=1)](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,646 | 🐛 31 | 🌐 TypeScript | 📅 2026-07-25
+[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen\&row=1)](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,648 | 🐛 31 | 🌐 TypeScript | 📅 2026-07-25
 
 ```markdown
 [![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 ```
 
-[![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=Naereen\&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,850 | 🐛 292 | 🌐 JavaScript | 📅 2026-08-31
+[![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=Naereen\&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,845 | 🐛 292 | 🌐 JavaScript | 📅 2026-08-31
 
 ```markdown
 [![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen\&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,850 | 🐛 292 | 🌐 JavaScript | 📅 2026-08-31
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen\&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,845 | 🐛 292 | 🌐 JavaScript | 📅 2026-08-31
 
 ```markdown
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
-[![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen\&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats) ⭐ 7,126 | 🐛 75 | 🌐 PHP | 📅 2026-08-31
+[![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen\&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats) ⭐ 7,127 | 🐛 75 | 🌐 PHP | 📅 2026-08-31
 
 ```markdown
 [![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
@@ -1580,7 +1580,7 @@ Jetbrains Badges
 
 ***
 
-## [Say thanks](https://github.com/kennethreitz/saythanks.io/) ⭐ 1,304 | 🐛 59 | 🌐 Python | 📅 2026-09-04
+## [Say thanks](https://github.com/kennethreitz/saythanks.io/) ⭐ 1,305 | 🐛 58 | 🌐 Python | 📅 2026-09-08
 
 A nice badge to give a link to [saythanks.io/to/kennethreitz](https://saythanks.io/to/kennethreitz) (for example).
 
@@ -1606,7 +1606,7 @@ A nice badge to give a link to [saythanks.io/to/kennethreitz](https://saythanks.
      * [Materialdesignicons](https://materialdesignicons.com/)
 2. Optimize the SVG image using a tool:
    * Example of tool:
-     * [SVGO Project](https://github.com/svg/svgo) ⭐ 22,664 | 🐛 261 | 🌐 JavaScript | 📅 2026-08-27 ([Web App](https://jakearchibald.github.io/svgomg/))
+     * [SVGO Project](https://github.com/svg/svgo) ⭐ 22,665 | 🐛 261 | 🌐 JavaScript | 📅 2026-08-27 ([Web App](https://jakearchibald.github.io/svgomg/))
 3. Encode the Optimized SVG to Base64 using a tool:
    * Example of tool:
      * [B64.io ](https://b64.io/)
@@ -1804,4 +1804,4 @@ A nice badge to give a link to [saythanks.io/to/kennethreitz](https://saythanks.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
