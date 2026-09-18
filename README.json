@@ -14,8 +14,8 @@
             "id": 73524850,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-17T02:33:43Z",
-            "open_issues": 59,
+            "last_commit": "2026-09-18T13:14:44Z",
+            "open_issues": 60,
             "owner": "BlitzKraft",
             "repo": "saythanks.io",
             "stars": 1306,
@@ -62,7 +62,7 @@
                     "open_issues": 272,
                     "owner": "svg",
                     "repo": "svgo",
-                    "stars": 22676,
+                    "stars": 22678,
                     "topics": [
                       "cli",
                       "hacktoberfest",
@@ -92,11 +92,11 @@
             "id": 60044366,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-17T07:24:18Z",
-            "open_issues": 288,
+            "last_commit": "2026-09-18T08:50:02Z",
+            "open_issues": 287,
             "owner": "vscode-icons",
             "repo": "vscode-icons",
-            "stars": 5148,
+            "stars": 5149,
             "topics": [
               "icon-theme",
               "icons-provider",
@@ -126,10 +126,10 @@
             "language": null,
             "license": "CC-BY-4.0",
             "last_commit": "2022-08-03T07:01:12Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "ellerbrock",
             "repo": "open-source-badges",
-            "stars": 549,
+            "stars": 551,
             "topics": [
               "badge",
               "badges",
@@ -164,7 +164,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T14:25:30.016Z",
+    "last_updated": "2026-09-18T13:46:25.673Z",
     "original_repository_info": {
       "archived": false,
       "description": ":pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!",
@@ -176,7 +176,7 @@
       "open_issues": 1,
       "owner": "Naereen",
       "repo": "badges",
-      "stars": 4646,
+      "stars": 4645,
       "topics": [
         "awesome",
         "badges",
