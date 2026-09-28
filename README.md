@@ -104,7 +104,7 @@ A list of badges, with their Markdown code, that can be included in a `README.md
 
 ### Maintained?
 
-Maintained: [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+Maintained: [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 ```markdown
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
@@ -264,7 +264,7 @@ Related Repos: [![RelatedRepos](https://img.shields.io/badge/related-repos-yello
 ```
 
 GitHub go.mod Go version (`/github/go-mod/go-version/:user/:repo`):
-[![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/gomods/athens.svg)](https://github.com/gomods/athens) ⭐ 4,800 | 🐛 152 | 🌐 Go | 📅 2026-09-20
+[![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/gomods/athens.svg)](https://github.com/gomods/athens) ⭐ 4,802 | 🐛 152 | 🌐 Go | 📅 2026-09-20
 
 ```markdown
 [![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/gomods/athens.svg)](https://github.com/gomods/athens)
@@ -318,7 +318,7 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 ```
 
-[![made-with-StrapDown.js](https://img.shields.io/badge/Made%20with-StrapDown.js-1f425f.svg)](https://GitHub.com/Naereen/StrapDown.js/) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+[![made-with-StrapDown.js](https://img.shields.io/badge/Made%20with-StrapDown.js-1f425f.svg)](https://GitHub.com/Naereen/StrapDown.js/) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 ```markdown
 [![made-with-StrapDown.js](https://img.shields.io/badge/Made%20with-StrapDown.js-1f425f.svg)](https://GitHub.com/Naereen/StrapDown.js/)
@@ -598,13 +598,13 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 
 ### GitHub license
 
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 ```markdown
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 ```
 
-[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 ```markdown
 [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
@@ -612,7 +612,7 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 
 ### GitHub branches
 
-[![GitHub branches](https://badgen.net/github/branches/Naereen/Strapdown.js)](https://github.com/Naereen/Strapdown.js/) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+[![GitHub branches](https://badgen.net/github/branches/Naereen/Strapdown.js)](https://github.com/Naereen/Strapdown.js/) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 ```markdown
 [![GitHub branches](https://badgen.net/github/branches/Naereen/Strapdown.js)](https://github.com/Naereen/Strapdown.js/)
@@ -620,43 +620,43 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 
 ### GitHub versions/tags/commits
 
-[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 ```markdown
 [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 ```
 
-[![Latest release](https://badgen.net/github/release/Naereen/Strapdown.js)](https://github.com/Naereen/Strapdown.js/releases) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+[![Latest release](https://badgen.net/github/release/Naereen/Strapdown.js)](https://github.com/Naereen/Strapdown.js/releases) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 ```markdown
 [![Latest release](https://badgen.net/github/release/Naereen/Strapdown.js)](https://github.com/Naereen/Strapdown.js/releases)
 ```
 
-[![GitHub tag](https://img.shields.io/github/tag/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/tags/) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+[![GitHub tag](https://img.shields.io/github/tag/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/tags/) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 ```markdown
 [![GitHub tag](https://img.shields.io/github/tag/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/tags/)
 ```
 
-[![Github tag](https://badgen.net/github/tag/Naereen/Strapdown.js)](https://github.com/Naereen/Strapdown.js/tags/) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+[![Github tag](https://badgen.net/github/tag/Naereen/Strapdown.js)](https://github.com/Naereen/Strapdown.js/tags/) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 ```markdown
 [![Github tag](https://badgen.net/github/tag/Naereen/Strapdown.js)](https://github.com/Naereen/Strapdown.js/tags/)
 ```
 
-[![GitHub commits](https://img.shields.io/github/commits-since/Naereen/StrapDown.js/v1.0.0.svg)](https://GitHub.com/Naereen/StrapDown.js/commit/) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+[![GitHub commits](https://img.shields.io/github/commits-since/Naereen/StrapDown.js/v1.0.0.svg)](https://GitHub.com/Naereen/StrapDown.js/commit/) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 ```markdown
 [![GitHub commits](https://img.shields.io/github/commits-since/Naereen/StrapDown.js/v1.0.0.svg)](https://GitHub.com/Naereen/StrapDown.js/commit/)
 ```
 
-[![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+[![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 ```markdown
 [![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
 ```
 
-[![GitHub latest commit](https://badgen.net/github/last-commit/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+[![GitHub latest commit](https://badgen.net/github/last-commit/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 ```markdown
 [![GitHub latest commit](https://badgen.net/github/last-commit/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
@@ -664,19 +664,19 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 
 ### GitHub downloads
 
-[![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+[![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 ```markdown
 [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 ```
 
-[![Github releases (by release)](https://img.shields.io/github/downloads/Naereen/StrapDown.js/v1.0.0/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+[![Github releases (by release)](https://img.shields.io/github/downloads/Naereen/StrapDown.js/v1.0.0/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 ```markdown
 [![Github Releases (by release)](https://img.shields.io/github/downloads/Naereen/StrapDown.js/v1.0.0/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 ```
 
-[![Github releases (by asset)](https://img.shields.io/github/downloads/Naereen/StrapDown.js/latest/strapdown.min.js)](https://GitHub.com/Naereen/StrapDown.js/releases/) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+[![Github releases (by asset)](https://img.shields.io/github/downloads/Naereen/StrapDown.js/latest/strapdown.min.js)](https://GitHub.com/Naereen/StrapDown.js/releases/) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 ```markdown
 [![Github releases (by asset)](https://img.shields.io/github/downloads/Naereen/StrapDown.js/latest/strapdown.min.js)](https://GitHub.com/Naereen/StrapDown.js/releases/)
@@ -684,13 +684,13 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 
 ### GitHub forks
 
-[![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social\&label=Fork\&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+[![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social\&label=Fork\&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 ```markdown
 [![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/)
 ```
 
-[![GitHub forks](https://badgen.net/github/forks/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/network/) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+[![GitHub forks](https://badgen.net/github/forks/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/network/) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 ```markdown
 [![GitHub forks](https://badgen.net/github/forks/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/network/)
@@ -698,13 +698,13 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 
 ### GitHub stars
 
-[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social\&label=Star\&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social\&label=Star\&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 ```markdown
 [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
 ```
 
-[![GitHub stars](https://badgen.net/github/stars/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/stargazers/) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+[![GitHub stars](https://badgen.net/github/stars/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/stargazers/) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 ```markdown
 [![GitHub stars](https://badgen.net/github/stars/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
@@ -720,13 +720,13 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 
 ### GitHub watchers
 
-[![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social\&label=Watch\&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+[![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social\&label=Watch\&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 ```markdown
 [![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
 ```
 
-[![GitHub watchers](https://badgen.net/github/watchers/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/watchers/) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+[![GitHub watchers](https://badgen.net/github/watchers/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/watchers/) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 ```markdown
 [![GitHub watchers](https://badgen.net/github/watchers/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
@@ -748,7 +748,7 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://GitHub.com/Naereen/badges/graphs/contributors/)
 ```
 
-[![GitHub contributors](https://badgen.net/github/contributors/Naereen/Strapdown.js)](https://GitHub.com/Naereen/Strapdown.js/graphs/contributors/) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+[![GitHub contributors](https://badgen.net/github/contributors/Naereen/Strapdown.js)](https://GitHub.com/Naereen/Strapdown.js/graphs/contributors/) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 ```markdown
 [![GitHub contributors](https://badgen.net/github/contributors/Naereen/Strapdown.js)](https://GitHub.com/Naereen/Strapdown.js/graphs/contributors/)
@@ -756,37 +756,37 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 
 ### GitHub issues
 
-[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/issues/) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/issues/) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 ```markdown
 [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/issues/)
 ```
 
-[![GitHub issues](https://badgen.net/github/issues/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/issues/) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+[![GitHub issues](https://badgen.net/github/issues/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/issues/) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 ```markdown
 [![GitHub issues](https://badgen.net/github/issues/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/issues/)
 ```
 
-[![GitHub issues-open](https://badgen.net/github/open-issues/Naereen/StrapDown.js)](https://github.com/Naereen/StrapDown.js/issues?q=is%3Aopen) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+[![GitHub issues-open](https://badgen.net/github/open-issues/Naereen/StrapDown.js)](https://github.com/Naereen/StrapDown.js/issues?q=is%3Aopen) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 ```markdown
 [![GitHub issues-open](https://badgen.net/github/open-issues/Naereen/StrapDown.js)](https://github.com/Naereen/StrapDown.js/issues?q=is%3Aopen)
 ```
 
-[![GitHub issues-closed](https://badgen.net/github/closed-issues/Naereen/StrapDown.js)](https://GitHub.com/Naereen/StrapDown.js/issues?q=is%3Aissue+is%3Aclosed) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+[![GitHub issues-closed](https://badgen.net/github/closed-issues/Naereen/StrapDown.js)](https://GitHub.com/Naereen/StrapDown.js/issues?q=is%3Aissue+is%3Aclosed) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 ```markdown
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/issues?q=is%3Aissue+is%3Aclosed)
 ```
 
-[![GitHub issues-closed](https://badgen.net/github/closed-issues/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/issues?q=is%3Aclosed) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+[![GitHub issues-closed](https://badgen.net/github/closed-issues/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/issues?q=is%3Aclosed) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 ```markdown
 [![GitHub issues-closed](https://badgen.net/github/closed-issues/Naereen/Strapdow.js)](https://github.com/Naereen/StrapDown.js/issues?q=is%3Aclosed)
 ```
 
-[![GitHub issues-closed](https://badgen.net/github/open-issues/Naereen/StrapDown.js)](https://GitHub.com/Naereen/StrapDown.js/issues?q=is%3Aissue+is%3Aopen) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+[![GitHub issues-closed](https://badgen.net/github/open-issues/Naereen/StrapDown.js)](https://GitHub.com/Naereen/StrapDown.js/issues?q=is%3Aissue+is%3Aopen) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 ```markdown
 [![GitHub issues-open](https://img.shields.io/github/issues-open/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/issues?q=is%3Aissue+is%3Aopen)
@@ -814,37 +814,37 @@ From [isitmaintained.com](http://isitmaintained.com):
 [![PR welcome issues still open](https://badgen.net/https/pr-welcome-badge.vercel.app/api/badge/fastify/help)](https://github.com/sinchang/pr-welcome-badge)
 ```
 
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/pull/) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/pull/) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 ```markdown
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/pull/)
 ```
 
-[![GitHub total-pull-requests](https://badgen.net/github/prs/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/pull/) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+[![GitHub total-pull-requests](https://badgen.net/github/prs/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/pull/) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 ```markdown
 [![GitHub total-pull-requests](https://badgen.net/github/prs/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/pull/)
 ```
 
-[![GitHub open-pull-requests](https://badgen.net/github/open-prs/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/pulls?q=is%3Aopen) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+[![GitHub open-pull-requests](https://badgen.net/github/open-prs/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/pulls?q=is%3Aopen) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 ```markdown
 [![GitHub open-pull-requests](https://badgen.net/github/open-prs/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/pulls?q=is%3Aopen)
 ```
 
-[![GitHub pull-requests closed](https://img.shields.io/github/issues-pr-closed/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/pull/) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+[![GitHub pull-requests closed](https://img.shields.io/github/issues-pr-closed/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/pull/) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 ```markdown
 [![GitHub pull-requests closed](https://img.shields.io/github/issues-pr-closed/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/pull/)
 ```
 
-[![GitHub pull-requests closed](https://badgen.net/github/closed-prs/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/pulls?q=is%3Aclosed) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+[![GitHub pull-requests closed](https://badgen.net/github/closed-prs/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/pulls?q=is%3Aclosed) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 ```markdown
 [![GitHub pull-requests closed](https://badgen.net/github/closed-prs/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/pulls?q=is%3Aclosed)
 ```
 
-[![GitHub pull-requests merged](https://badgen.net/github/merged-prs/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/pulls?q=is%3Amerged) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+[![GitHub pull-requests merged](https://badgen.net/github/merged-prs/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/pulls?q=is%3Amerged) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 ```markdown
 [![GitHub pull-requests merged](https://badgen.net/github/merged-prs/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/pulls?q=is%3Amerged)
@@ -860,7 +860,7 @@ From [isitmaintained.com](http://isitmaintained.com):
 
 ### GitHub version
 
-[![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/Naereen/StrapDown.js) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+[![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/Naereen/StrapDown.js) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 ```markdown
 [![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/Naereen/StrapDown.js)
@@ -868,25 +868,25 @@ From [isitmaintained.com](http://isitmaintained.com):
 
 ### GitHub Profile
 
-[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen\&row=1)](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,663 | 🐛 34 | 🌐 TypeScript | 📅 2026-07-25
+[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen\&row=1)](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,665 | 🐛 35 | 🌐 TypeScript | 📅 2026-07-25
 
 ```markdown
 [![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 ```
 
-[![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=Naereen\&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,811 | 🐛 295 | 🌐 JavaScript | 📅 2026-08-31
+[![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=Naereen\&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,815 | 🐛 295 | 🌐 JavaScript | 📅 2026-08-31
 
 ```markdown
 [![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen\&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,811 | 🐛 295 | 🌐 JavaScript | 📅 2026-08-31
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen\&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,815 | 🐛 295 | 🌐 JavaScript | 📅 2026-08-31
 
 ```markdown
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
-[![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen\&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats) ⭐ 7,150 | 🐛 76 | 🌐 PHP | 📅 2026-09-25
+[![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen\&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats) ⭐ 7,155 | 🐛 76 | 🌐 PHP | 📅 2026-09-25
 
 ```markdown
 [![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
@@ -1580,7 +1580,7 @@ Jetbrains Badges
 
 ***
 
-## [Say thanks](https://github.com/kennethreitz/saythanks.io/) ⭐ 1,306 | 🐛 60 | 🌐 Python | 📅 2026-09-26
+## [Say thanks](https://github.com/kennethreitz/saythanks.io/) ⭐ 1,306 | 🐛 60 | 🌐 Python | 📅 2026-09-28
 
 A nice badge to give a link to [saythanks.io/to/kennethreitz](https://saythanks.io/to/kennethreitz) (for example).
 
@@ -1606,7 +1606,7 @@ A nice badge to give a link to [saythanks.io/to/kennethreitz](https://saythanks.
      * [Materialdesignicons](https://materialdesignicons.com/)
 2. Optimize the SVG image using a tool:
    * Example of tool:
-     * [SVGO Project](https://github.com/svg/svgo) ⭐ 22,703 | 🐛 272 | 🌐 JavaScript | 📅 2026-08-27 ([Web App](https://jakearchibald.github.io/svgomg/))
+     * [SVGO Project](https://github.com/svg/svgo) ⭐ 22,704 | 🐛 272 | 🌐 JavaScript | 📅 2026-08-27 ([Web App](https://jakearchibald.github.io/svgomg/))
 3. Encode the Optimized SVG to Base64 using a tool:
    * Example of tool:
      * [B64.io ](https://b64.io/)
@@ -1649,7 +1649,7 @@ A nice badge to give a link to [saythanks.io/to/kennethreitz](https://saythanks.
 ![Telegram](https://img.shields.io/badge/Join-Telegram-blue?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgaGVpZ2h0PSI1MTIiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjUxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJtOS40MTcgMTUuMTgxLS4zOTcgNS41ODRjLjU2OCAwIC44MTQtLjI0NCAxLjEwOS0uNTM3bDIuNjYzLTIuNTQ1IDUuNTE4IDQuMDQxYzEuMDEyLjU2NCAxLjcyNS4yNjcgMS45OTgtLjkzMWwzLjYyMi0xNi45NzIuMDAxLS4wMDFjLjMyMS0xLjQ5Ni0uNTQxLTIuMDgxLTEuNTI3LTEuNzE0bC0yMS4yOSA4LjE1MWMtMS40NTMuNTY0LTEuNDMxIDEuMzc0LS4yNDcgMS43NDFsNS40NDMgMS42OTMgMTIuNjQzLTcuOTExYy41OTUtLjM5NCAxLjEzNi0uMTc2LjY5MS4yMTh6IiBmaWxsPSIjMDM5YmU1Ii8+PC9zdmc+)
 ```
 
-![RuboCop](https://img.shields.io/badge/code%20style-Rubocop-red?style=for-the-badge\&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHRpdGxlPmZpbGVfdHlwZV9ydWJvY29wPC90aXRsZT48cGF0aCBkPSJNMjcuMDUsMTMuOVYxM2ExLjc5MywxLjc5MywwLDAsMC0xLjgtMS44SDYuNjVBMS43OTMsMS43OTMsMCwwLDAsNC44NSwxM3YuOWExLjUyNSwxLjUyNSwwLDAsMC0uNywxLjJ2Mi40YTEuMzg3LDEuMzg3LDAsMCwwLC43LDEuMnYuOWExLjc5MywxLjc5MywwLDAsMCwxLjgsMS44aDE4LjdhMS43OTMsMS43OTMsMCwwLDAsMS44LTEuOHYtLjlhMS41MjUsMS41MjUsMCwwLDAsLjctMS4yVjE1LjFBMS43NDIsMS43NDIsMCwwLDAsMjcuMDUsMTMuOVoiIHN0eWxlPSJmaWxsOiNjNWM1YzUiLz48cGF0aCBkPSJNMTUuOTUsMmE5LjkyNSw5LjkyNSwwLDAsMC05LjgsOC42aDE5LjZBOS45MjUsOS45MjUsMCwwLDAsMTUuOTUsMloiIHN0eWxlPSJmaWxsOiNjNWM1YzUiLz48cG9seWdvbiBwb2ludHM9IjEzLjA1IDI0IDE4Ljg1IDI0IDE5LjQ1IDI0LjcgMjAuMzUgMjQgMTkuNDUgMjIuOSAxMi40NSAyMi45IDExLjU1IDI0IDEyLjQ1IDI0LjcgMTMuMDUgMjQiIHN0eWxlPSJmaWxsOiNjNWM1YzUiLz48cGF0aCBkPSJNMjMuNTUsMTcuNkg4LjM1YTEuMywxLjMsMCwxLDEsMC0yLjZoMTUuM2ExLjMyNCwxLjMyNCwwLDAsMSwxLjMsMS4zQTEuNDkzLDEuNDkzLDAsMCwxLDIzLjU1LDE3LjZaIiBzdHlsZT0iZmlsbDojZWMxYzI0Ii8+PHBhdGggZD0iTTIzLjA1LDIydjMuOGExLjk2NywxLjk2NywwLDAsMS0xLjksMS45aC0xYS44NjQuODY0LDAsMCwxLS42LS4zbC0xLjItMS42YS42LjYsMCwwLDAtLjYtLjNoLTMuNmEuNzY0Ljc2NCwwLDAsMC0uNS4ybC0xLjMsMS42YS42LjYsMCwwLDEtLjYuM2gtMWExLjk2NywxLjk2NywwLDAsMS0xLjktMS45VjIySDYuNTV2My44YTQuMjI1LDQuMjI1LDAsMCwwLDQuMiw0LjJoMTAuNGE0LjIyNSw0LjIyNSwwLDAsMCw0LjItNC4yVjIyWiIgc3R5bGU9ImZpbGw6I2M1YzVjNSIvPjwvc3ZnPg==) ([Source](https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_rubocop.svg) ⭐ 5,156 | 🐛 243 | 🌐 TypeScript | 📅 2026-09-27)
+![RuboCop](https://img.shields.io/badge/code%20style-Rubocop-red?style=for-the-badge\&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHRpdGxlPmZpbGVfdHlwZV9ydWJvY29wPC90aXRsZT48cGF0aCBkPSJNMjcuMDUsMTMuOVYxM2ExLjc5MywxLjc5MywwLDAsMC0xLjgtMS44SDYuNjVBMS43OTMsMS43OTMsMCwwLDAsNC44NSwxM3YuOWExLjUyNSwxLjUyNSwwLDAsMC0uNywxLjJ2Mi40YTEuMzg3LDEuMzg3LDAsMCwwLC43LDEuMnYuOWExLjc5MywxLjc5MywwLDAsMCwxLjgsMS44aDE4LjdhMS43OTMsMS43OTMsMCwwLDAsMS44LTEuOHYtLjlhMS41MjUsMS41MjUsMCwwLDAsLjctMS4yVjE1LjFBMS43NDIsMS43NDIsMCwwLDAsMjcuMDUsMTMuOVoiIHN0eWxlPSJmaWxsOiNjNWM1YzUiLz48cGF0aCBkPSJNMTUuOTUsMmE5LjkyNSw5LjkyNSwwLDAsMC05LjgsOC42aDE5LjZBOS45MjUsOS45MjUsMCwwLDAsMTUuOTUsMloiIHN0eWxlPSJmaWxsOiNjNWM1YzUiLz48cG9seWdvbiBwb2ludHM9IjEzLjA1IDI0IDE4Ljg1IDI0IDE5LjQ1IDI0LjcgMjAuMzUgMjQgMTkuNDUgMjIuOSAxMi40NSAyMi45IDExLjU1IDI0IDEyLjQ1IDI0LjcgMTMuMDUgMjQiIHN0eWxlPSJmaWxsOiNjNWM1YzUiLz48cGF0aCBkPSJNMjMuNTUsMTcuNkg4LjM1YTEuMywxLjMsMCwxLDEsMC0yLjZoMTUuM2ExLjMyNCwxLjMyNCwwLDAsMSwxLjMsMS4zQTEuNDkzLDEuNDkzLDAsMCwxLDIzLjU1LDE3LjZaIiBzdHlsZT0iZmlsbDojZWMxYzI0Ii8+PHBhdGggZD0iTTIzLjA1LDIydjMuOGExLjk2NywxLjk2NywwLDAsMS0xLjksMS45aC0xYS44NjQuODY0LDAsMCwxLS42LS4zbC0xLjItMS42YS42LjYsMCwwLDAtLjYtLjNoLTMuNmEuNzY0Ljc2NCwwLDAsMC0uNS4ybC0xLjMsMS42YS42LjYsMCwwLDEtLjYuM2gtMWExLjk2NywxLjk2NywwLDAsMS0xLjktMS45VjIySDYuNTV2My44YTQuMjI1LDQuMjI1LDAsMCwwLDQuMiw0LjJoMTAuNGE0LjIyNSw0LjIyNSwwLDAsMCw0LjItNC4yVjIyWiIgc3R5bGU9ImZpbGw6I2M1YzVjNSIvPjwvc3ZnPg==) ([Source](https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_rubocop.svg) ⭐ 5,156 | 🐛 236 | 🌐 TypeScript | 📅 2026-09-28)
 
 ```markdown
 ![RuboCop](https://img.shields.io/badge/code%20style-Rubocop-red?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHRpdGxlPmZpbGVfdHlwZV9ydWJvY29wPC90aXRsZT48cGF0aCBkPSJNMjcuMDUsMTMuOVYxM2ExLjc5MywxLjc5MywwLDAsMC0xLjgtMS44SDYuNjVBMS43OTMsMS43OTMsMCwwLDAsNC44NSwxM3YuOWExLjUyNSwxLjUyNSwwLDAsMC0uNywxLjJ2Mi40YTEuMzg3LDEuMzg3LDAsMCwwLC43LDEuMnYuOWExLjc5MywxLjc5MywwLDAsMCwxLjgsMS44aDE4LjdhMS43OTMsMS43OTMsMCwwLDAsMS44LTEuOHYtLjlhMS41MjUsMS41MjUsMCwwLDAsLjctMS4yVjE1LjFBMS43NDIsMS43NDIsMCwwLDAsMjcuMDUsMTMuOVoiIHN0eWxlPSJmaWxsOiNjNWM1YzUiLz48cGF0aCBkPSJNMTUuOTUsMmE5LjkyNSw5LjkyNSwwLDAsMC05LjgsOC42aDE5LjZBOS45MjUsOS45MjUsMCwwLDAsMTUuOTUsMloiIHN0eWxlPSJmaWxsOiNjNWM1YzUiLz48cG9seWdvbiBwb2ludHM9IjEzLjA1IDI0IDE4Ljg1IDI0IDE5LjQ1IDI0LjcgMjAuMzUgMjQgMTkuNDUgMjIuOSAxMi40NSAyMi45IDExLjU1IDI0IDEyLjQ1IDI0LjcgMTMuMDUgMjQiIHN0eWxlPSJmaWxsOiNjNWM1YzUiLz48cGF0aCBkPSJNMjMuNTUsMTcuNkg4LjM1YTEuMywxLjMsMCwxLDEsMC0yLjZoMTUuM2ExLjMyNCwxLjMyNCwwLDAsMSwxLjMsMS4zQTEuNDkzLDEuNDkzLDAsMCwxLDIzLjU1LDE3LjZaIiBzdHlsZT0iZmlsbDojZWMxYzI0Ii8+PHBhdGggZD0iTTIzLjA1LDIydjMuOGExLjk2NywxLjk2NywwLDAsMS0xLjksMS45aC0xYS44NjQuODY0LDAsMCwxLS42LS4zbC0xLjItMS42YS42LjYsMCwwLDAtLjYtLjNoLTMuNmEuNzY0Ljc2NCwwLDAsMC0uNS4ybC0xLjMsMS42YS42LjYsMCwwLDEtLjYuM2gtMWExLjk2NywxLjk2NywwLDAsMS0xLjktMS45VjIySDYuNTV2My44YTQuMjI1LDQuMjI1LDAsMCwwLDQuMiw0LjJoMTAuNGE0LjIyNSw0LjIyNSwwLDAsMCw0LjItNC4yVjIyWiIgc3R5bGU9ImZpbGw6I2M1YzVjNSIvPjwvc3ZnPg==)
@@ -1804,4 +1804,4 @@ A nice badge to give a link to [saythanks.io/to/kennethreitz](https://saythanks.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
