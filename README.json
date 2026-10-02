@@ -14,7 +14,7 @@
             "id": 73524850,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-29T16:21:51Z",
+            "last_commit": "2026-10-02T15:56:13Z",
             "open_issues": 62,
             "owner": "BlitzKraft",
             "repo": "saythanks.io",
@@ -62,7 +62,7 @@
                     "open_issues": 272,
                     "owner": "svg",
                     "repo": "svgo",
-                    "stars": 22707,
+                    "stars": 22710,
                     "topics": [
                       "cli",
                       "hacktoberfest",
@@ -92,11 +92,11 @@
             "id": 60044366,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T10:14:14Z",
-            "open_issues": 243,
+            "last_commit": "2026-10-02T15:18:23Z",
+            "open_issues": 245,
             "owner": "vscode-icons",
             "repo": "vscode-icons",
-            "stars": 5162,
+            "stars": 5163,
             "topics": [
               "icon-theme",
               "icons-provider",
@@ -164,7 +164,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T16:40:11.465Z",
+    "last_updated": "2026-10-02T15:56:52.258Z",
     "original_repository_info": {
       "archived": false,
       "description": ":pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!",
@@ -176,7 +176,7 @@
       "open_issues": 1,
       "owner": "Naereen",
       "repo": "badges",
-      "stars": 4646,
+      "stars": 4647,
       "topics": [
         "awesome",
         "badges",
