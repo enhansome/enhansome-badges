@@ -18,7 +18,7 @@
             "open_issues": 64,
             "owner": "BlitzKraft",
             "repo": "saythanks.io",
-            "stars": 1306,
+            "stars": 1309,
             "topics": [
               "inbox",
               "opensource",
@@ -62,7 +62,7 @@
                     "open_issues": 276,
                     "owner": "svg",
                     "repo": "svgo",
-                    "stars": 22717,
+                    "stars": 22715,
                     "topics": [
                       "cli",
                       "hacktoberfest",
@@ -164,7 +164,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T16:30:05.988Z",
+    "last_updated": "2026-10-10T15:32:57.024Z",
     "original_repository_info": {
       "archived": false,
       "description": ":pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!",
@@ -176,7 +176,7 @@
       "open_issues": 1,
       "owner": "Naereen",
       "repo": "badges",
-      "stars": 4651,
+      "stars": 4652,
       "topics": [
         "awesome",
         "badges",

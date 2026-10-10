@@ -264,7 +264,7 @@ Related Repos: [![RelatedRepos](https://img.shields.io/badge/related-repos-yello
 ```
 
 GitHub go.mod Go version (`/github/go-mod/go-version/:user/:repo`):
-[![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/gomods/athens.svg)](https://github.com/gomods/athens) ⭐ 4,804 | 🐛 118 | 🌐 Go | 📅 2026-10-08
+[![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/gomods/athens.svg)](https://github.com/gomods/athens) ⭐ 4,805 | 🐛 118 | 🌐 Go | 📅 2026-10-08
 
 ```markdown
 [![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/gomods/athens.svg)](https://github.com/gomods/athens)
@@ -868,31 +868,31 @@ From [isitmaintained.com](http://isitmaintained.com):
 
 ### GitHub Profile
 
-[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen\&row=1)](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,664 | 🐛 33 | 🌐 TypeScript | 📅 2026-07-25
+[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen\&row=1)](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,662 | 🐛 33 | 🌐 TypeScript | 📅 2026-07-25
 
 ```markdown
 [![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 ```
 
-[![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=Naereen\&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,824 | 🐛 294 | 🌐 JavaScript | 📅 2026-10-01
+[![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=Naereen\&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,823 | 🐛 294 | 🌐 JavaScript | 📅 2026-10-01
 
 ```markdown
 [![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen\&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,824 | 🐛 294 | 🌐 JavaScript | 📅 2026-10-01
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen\&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,823 | 🐛 294 | 🌐 JavaScript | 📅 2026-10-01
 
 ```markdown
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
-[![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen\&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats) ⭐ 7,168 | 🐛 79 | 🌐 PHP | 📅 2026-10-08
+[![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen\&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats) ⭐ 7,167 | 🐛 79 | 🌐 PHP | 📅 2026-10-08
 
 ```markdown
 [![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 ```
 
-[![Naereen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Naereen\&bg_color=0d0e12\&color=1c81ce\&line=0f1129\&point=079ae4\&area=true\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) ⭐ 2,342 | 🐛 17 | 🌐 TypeScript | 📅 2026-05-17
+[![Naereen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Naereen\&bg_color=0d0e12\&color=1c81ce\&line=0f1129\&point=079ae4\&area=true\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) ⭐ 2,344 | 🐛 17 | 🌐 TypeScript | 📅 2026-05-17
 
 ```markdown
 [![Naereen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Naereen&bg_color=0d0e12&color=1c81ce&line=0f1129&point=079ae4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -1580,7 +1580,7 @@ Jetbrains Badges
 
 ***
 
-## [Say thanks](https://github.com/kennethreitz/saythanks.io/) ⭐ 1,306 | 🐛 64 | 🌐 Python | 📅 2026-10-08
+## [Say thanks](https://github.com/kennethreitz/saythanks.io/) ⭐ 1,309 | 🐛 64 | 🌐 Python | 📅 2026-10-08
 
 A nice badge to give a link to [saythanks.io/to/kennethreitz](https://saythanks.io/to/kennethreitz) (for example).
 
@@ -1606,7 +1606,7 @@ A nice badge to give a link to [saythanks.io/to/kennethreitz](https://saythanks.
      * [Materialdesignicons](https://materialdesignicons.com/)
 2. Optimize the SVG image using a tool:
    * Example of tool:
-     * [SVGO Project](https://github.com/svg/svgo) ⭐ 22,717 | 🐛 276 | 🌐 JavaScript | 📅 2026-08-27 ([Web App](https://jakearchibald.github.io/svgomg/))
+     * [SVGO Project](https://github.com/svg/svgo) ⭐ 22,715 | 🐛 276 | 🌐 JavaScript | 📅 2026-08-27 ([Web App](https://jakearchibald.github.io/svgomg/))
 3. Encode the Optimized SVG to Base64 using a tool:
    * Example of tool:
      * [B64.io ](https://b64.io/)
@@ -1804,4 +1804,4 @@ A nice badge to give a link to [saythanks.io/to/kennethreitz](https://saythanks.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
