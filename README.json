@@ -93,7 +93,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-20T04:17:09Z",
-            "open_issues": 230,
+            "open_issues": 233,
             "owner": "vscode-icons",
             "repo": "vscode-icons",
             "stars": 5178,
@@ -164,7 +164,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T14:27:23.379Z",
+    "last_updated": "2026-10-21T14:36:49.367Z",
     "original_repository_info": {
       "archived": false,
       "description": ":pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!",
@@ -176,7 +176,7 @@
       "open_issues": 1,
       "owner": "Naereen",
       "repo": "badges",
-      "stars": 4653,
+      "stars": 4654,
       "topics": [
         "awesome",
         "badges",
