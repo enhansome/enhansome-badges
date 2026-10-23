@@ -62,7 +62,7 @@
                     "open_issues": 275,
                     "owner": "svg",
                     "repo": "svgo",
-                    "stars": 22766,
+                    "stars": 22765,
                     "topics": [
                       "cli",
                       "hacktoberfest",
@@ -92,8 +92,8 @@
             "id": 60044366,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-22T13:13:17Z",
-            "open_issues": 232,
+            "last_commit": "2026-10-23T11:46:18Z",
+            "open_issues": 234,
             "owner": "vscode-icons",
             "repo": "vscode-icons",
             "stars": 5178,
@@ -129,7 +129,7 @@
             "open_issues": 9,
             "owner": "ellerbrock",
             "repo": "open-source-badges",
-            "stars": 553,
+            "stars": 554,
             "topics": [
               "badge",
               "badges",
@@ -164,7 +164,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T14:37:35.848Z",
+    "last_updated": "2026-10-23T14:22:06.392Z",
     "original_repository_info": {
       "archived": false,
       "description": ":pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!",
