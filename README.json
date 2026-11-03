@@ -15,7 +15,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-10-31T07:13:26Z",
-            "open_issues": 69,
+            "open_issues": 68,
             "owner": "BlitzKraft",
             "repo": "saythanks.io",
             "stars": 1316,
@@ -92,11 +92,11 @@
             "id": 60044366,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-02T05:05:21Z",
-            "open_issues": 214,
+            "last_commit": "2026-11-03T09:06:55Z",
+            "open_issues": 204,
             "owner": "vscode-icons",
             "repo": "vscode-icons",
-            "stars": 5179,
+            "stars": 5181,
             "topics": [
               "icon-theme",
               "icons-provider",
@@ -164,7 +164,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T19:44:11.358Z",
+    "last_updated": "2026-11-03T17:17:16.463Z",
     "original_repository_info": {
       "archived": false,
       "description": ":pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!",
