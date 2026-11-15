@@ -14,11 +14,11 @@
             "id": 73524850,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-31T07:13:26Z",
+            "last_commit": "2026-11-15T15:41:28Z",
             "open_issues": 69,
             "owner": "BlitzKraft",
             "repo": "saythanks.io",
-            "stars": 1316,
+            "stars": 1317,
             "topics": [
               "inbox",
               "opensource",
@@ -62,7 +62,7 @@
                     "open_issues": 279,
                     "owner": "svg",
                     "repo": "svgo",
-                    "stars": 22817,
+                    "stars": 22820,
                     "topics": [
                       "cli",
                       "hacktoberfest",
@@ -93,7 +93,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-13T08:41:22Z",
-            "open_issues": 206,
+            "open_issues": 209,
             "owner": "vscode-icons",
             "repo": "vscode-icons",
             "stars": 5189,
@@ -129,7 +129,7 @@
             "open_issues": 9,
             "owner": "ellerbrock",
             "repo": "open-source-badges",
-            "stars": 554,
+            "stars": 555,
             "topics": [
               "badge",
               "badges",
@@ -164,7 +164,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T16:01:39.143Z",
+    "last_updated": "2026-11-15T16:31:57.951Z",
     "original_repository_info": {
       "archived": false,
       "description": ":pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!",
